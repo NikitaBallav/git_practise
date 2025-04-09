@@ -1,10 +1,12 @@
 
 ---
-
-```markdown
 # git_practise
 
+---
+
 ## ✅ Case 1: From GitHub Repo to Local Machine
+
+---
 
 ### Step 1: Clone the Repository  
 Cloned this Git repo into my local machine using the command in the terminal of VS Code:
@@ -68,7 +70,7 @@ git push origin main
 ---
 
 ## ✅ Case 2: From Local Project to Remote GitHub Repo  
-If you already have a local project folder and want to upload it to GitHub, follow these steps:
+If already have a local project folder and want to upload it to GitHub, follow these steps:
 
 ---
 
