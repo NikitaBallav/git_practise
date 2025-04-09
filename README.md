@@ -128,3 +128,9 @@ Send your local code to the remote repository:
 git push -u origin main
 ```
 
+### Step 7: Pulling any changes made in remote
+Local repo gets the latest updates from the remote one:
+
+```bash
+git pull origin main
+```
