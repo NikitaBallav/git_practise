@@ -129,8 +129,12 @@ git push -u origin main
 ```
 
 ### Step 7: Pulling any changes made in remote
-Local repo gets the latest updates from the remote one:
+Let’s say your friend pushed new changes to GitHub in the main branch.
+
+To sync your local repo with the latest changes:
 
 ```bash
 git pull origin main
 ```
+
+Now your local code will include whatever updates your friend made.
